@@ -424,10 +424,10 @@ h1{
 
 ## OUTPUT:
 
-![alt text](<admin output.png>)
-![alt text](<contact output.jpeg>)
 ![alt text](<home output.png>)
 ![alt text](<menu output.png>)
+![alt text](<admin output.png>)
+![alt text](<contact output.jpeg>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
